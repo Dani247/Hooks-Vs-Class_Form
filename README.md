@@ -1,3 +1,5 @@
+## A test on handling input states and component life cycles on a Class Component vs a Functional Component with hooks
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
